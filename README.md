@@ -15,7 +15,3 @@ hi，这是一个csgo罗技宏项目 罗技鼠标宏订制数据库
 开火模式自定义；等等更多功能，等你发现~
 
 如果大家对项目感兴趣，请转到赞助页面获得程序。
-
-赞助地址：https://shop.j3v.cn/buy/2
-
-视频演示：https://www.bilibili.com/video/BV1gK411V7bY
