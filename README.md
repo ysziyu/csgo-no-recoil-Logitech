@@ -15,3 +15,5 @@ hi，这是一个csgo罗技宏项目 罗技鼠标宏订制数据库
 开火模式自定义；等等更多功能，等你发现~
 
 ![01](https://github.com/ysziyu/csgo-no-recoil-Logitech/blob/main/01.gif)
+
+个人微信：douyin_sh
