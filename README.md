@@ -1,3 +1,6 @@
+### 已更新支持CSGO2
+
+
 hi，这是一个csgo罗技宏项目 罗技鼠标宏订制数据库
 
 本鼠标宏仅罗技鼠标可用，其他牌无法使用请熟知（无法使用自行承担）。
@@ -20,6 +23,9 @@ hi，这是一个csgo罗技宏项目 罗技鼠标宏订制数据库
 https://t.me/MrLiang2022
 
 ![01](https://github.com/ysziyu/csgo-no-recoil-Logitech/blob/main/01.gif)
+
+
+### Updated to support CSGO2
 
 hi, this is a csgo logitech macro project logitech mouse macro subscription database!
 
