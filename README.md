@@ -20,7 +20,7 @@ hi，这是一个csgo罗技宏项目 罗技鼠标宏订制数据库
 开火模式自定义；等等更多功能，等你发现~
 
 获得方法
-https://t.me/MrLiang2022
+[https://bit.ly/csgo2-no-recoil-Logitech](https://bit.ly/csgo2-no-recoil-Logitech)
 
 ![01](https://github.com/ysziyu/csgo-no-recoil-Logitech/blob/main/01.gif)
 
@@ -46,7 +46,7 @@ Fourteen kinds of commonly used weapon data; one key to bind double guns;
 Fire mode customization; and so on more functions, waiting for you to discover~
 
 Acquisition method
-https://t.me/MrLiang2022
+[https://bit.ly/csgo2-no-recoil-Logitech](https://bit.ly/csgo2-no-recoil-Logitech)https://bit.ly/csgo2-no-recoil-Logitech
 
 
 
